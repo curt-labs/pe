@@ -247,7 +247,7 @@ div[role=main] img.graphic{
 }
 
 div[role=main] section.cats{
-  background: url('../img/bottom-background.png') no-repeat black;
+  background: url('../img/bottom-background.png') no-repeat #090a0a;
   background-position:bottom;
   width:100%;
   min-height:1707px;
